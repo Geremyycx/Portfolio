@@ -1,3 +1,1 @@
-# Portfolio
-
-This is my portfolio
+Gerome Coralde's Personal Portfolio
