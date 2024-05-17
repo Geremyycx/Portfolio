@@ -42,19 +42,18 @@ This dummy project simplifies a student-list management system by offering a use
 
 ### <b> Project Three: Poverty in the Midwest </b><br />
 <ins><b> Description</b></ins><br />
-x
+Poverty currently affects 12% of the United States population which has been a situation discussed throughout the world. To prevent people from going into poverty, the study aims to predict what factors influence it. Our sample size of 1055 cases used Midwest states' county demographics from SimplyAnalytics using U.S. Census Bureau data collected from 2010-2020.
 
 
 <ins><b>Features</ins></b>
-- x
-- x
-- x
-- x
+- Exploratory Data
+- Factor Analysis 
+- Structural Equation Modeling
 
 <ins><b>Technologies Used</ins></b>
 
-- x
-- x
+- Microsoft Excel
+- R & RStudio
 
 
 <ins><b>Conclusion</ins></b><br />
