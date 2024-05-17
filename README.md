@@ -24,7 +24,7 @@ This project involves the development of an interactive CAPTCHA program that can
 - HTML & Python
 - Web Framework
 
-### <b> Project Two: Dummy Student List: Microsoft Power Apps </b><br />
+### <b> Project Two: Dummy Student List using Microsoft Power Apps </b><br />
 <ins><b> Description</b></ins><br />
 This dummy project simplifies a student-list management system by offering a user-friendly interface for adding, editing, and removing student information. This low-code application, using Microsoft Power Apps, which collaborates with Excel, ensures efficient data synchronization and streamlining administrative tasks as changes in the app are automatically reflected in the spreadsheet. This intuitive design allows an effortless experience as Power Apps automatically applies the template for the user(s) to modify. 
 
