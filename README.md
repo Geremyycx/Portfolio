@@ -1,7 +1,7 @@
 # <b>Signature Work Portfolio - Gerome Coralde</b><br />
 
 <ins><b>Introduction</ins></b><br />
-Welcome to my Signature Work Portfolio! This portfolio showcases three projects that I have completed during my time at the University of St. Thomas as a Computer Science major and a Data Science minor. Each project serves as a testament to the knowledge I gained, assimilated, and applied, reflecting my growth and proficiency in systematic problem-solving and creativity within the fields of technology and data.<br />
+Welcome to my Signature Work Portfolio! This portfolio showcases three projects I completed while studying at the University of St. Thomas as a Computer Science major and a Data Science minor. Each project serves as a testament to the knowledge I gained, assimilated, and applied, reflecting my growth and proficiency in systematic problem-solving and creativity within the fields of technology and data.<br />
 
 <ins><b>Table of Contents</b></ins><br />
 Project 1: Interactive History Sniffing: CAPTCHA Project<br />
