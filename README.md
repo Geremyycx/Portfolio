@@ -15,7 +15,6 @@ This project involves the development of an interactive CAPTCHA program that can
 <ins><b>Features</ins></b>
 - User Verification System
 - Website History Detection
-- Security Measures
 - Personalized Recommendations
 
 <ins><b>Technologies Used</ins></b>
