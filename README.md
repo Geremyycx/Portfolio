@@ -4,11 +4,11 @@
 Welcome to my Signature Work Portfolio! This portfolio showcases three projects I completed while studying at the University of St. Thomas as a Computer Science major and a Data Science minor. Each project serves as a testament to the knowledge I gained, assimilated, and applied, reflecting my growth and proficiency in systematic problem-solving and creativity within the fields of technology and data.<br />
 
 <ins><b>Table of Contents</b></ins><br />
-[Project 1: Interactive History Sniffing: CAPTCHA Project<br />](https://github.com/Geremyycx/Project-One-Interactive-History-Sniffing-CAPTCHA.git)
+[Project 1: Interactive History Sniffing: CAPTCHA Project<br />](https://github.com/Geremyycx/Interactive-History-Sniffing-CAPTCHA.git)
 Project 2: Dummy Student List using Microsoft Power Apps<br />
 Project 3: Poverty in the Midwest<br />
 
-### <b> [Project One: Interactive History Sniffing: CAPTCHA Project</b><br />](https://github.com/Geremyycx/Project-One-Interactive-History-Sniffing-CAPTCHA.git)
+### <b> [Project One: Interactive History Sniffing: CAPTCHA Project</b><br />](https://github.com/Geremyycx/Interactive-History-Sniffing-CAPTCHA.git)
 <ins><b> Description</ins></b><br />
 This project involves the development of an interactive CAPTCHA program that can detect if a user recently visited certain websites. In this case, the project was designed to, (pretending) the user is a college student, recommend the user different majors to choose from given their web browsing history. This project is intended to capture the essence of studying computer systems under attack from a malicious adversary, simulating real-world cybersecurity challenges.
 
