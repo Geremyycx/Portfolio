@@ -6,7 +6,7 @@ Welcome to my Signature Work Portfolio! This portfolio showcases three projects 
 <ins><b>Table of Contents</b></ins><br />
 [Project 1: Interactive History Sniffing: CAPTCHA Project](https://github.com/Geremyycx/Interactive-History-Sniffing-CAPTCHA.git)<br />
 [Project 2: Dummy Student List using Microsoft Power Apps](https://github.com/Geremyycx/Dummy-Student-List.git)<br />
-Project 3: Poverty in the Midwest<br />
+[Project 3: Poverty in the Midwest](https://github.com/Geremyycx/Poverty-in-the-Midwest.git)<br />
 
 ### <b> [Project One: Interactive History Sniffing: CAPTCHA Project</b><br />](https://github.com/Geremyycx/Interactive-History-Sniffing-CAPTCHA.git)
 <ins><b> Description</ins></b><br />
@@ -39,7 +39,7 @@ This dummy project simplifies a student-list management system by offering a use
 - Microsoft Power Apps & Google Sheets
 - Data Integration Tools
 
-### <b> Project Three: Poverty in the Midwest </b><br />
+### <b> [Project Three: Poverty in the Midwest](https://github.com/Geremyycx/Poverty-in-the-Midwest.git) </b><br />
 <ins><b> Description</b></ins><br />
 Poverty currently affects 12% of the United States population which has been a situation discussed throughout the world. To prevent people from going into poverty, the study aims to predict what factors influence it. Our sample size of 1055 cases used Midwest states' county demographics from SimplyAnalytics using U.S. Census Bureau data collected from 2010-2020.
 
