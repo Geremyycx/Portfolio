@@ -25,7 +25,7 @@ This project involves the development of an interactive CAPTCHA program that can
 
 ### <b> Project Two: Dummy Student List using Microsoft Power Apps </b><br />
 <ins><b> Description</b></ins><br />
-This dummy project simplifies a student-list management system by offering a user-friendly interface for adding, editing, and removing student information. This low-code application, using Microsoft Power Apps, which collaborates with Excel, ensures efficient data synchronization and streamlining administrative tasks as changes in the app are automatically reflected in the spreadsheet. This intuitive design allows an effortless experience as Power Apps automatically applies the template for the user(s) to modify. 
+This dummy project simplifies a student-list management system by offering a user-friendly interface for adding, editing, and removing student information. This low-code application, using Microsoft Power Apps, which collaborates with Google Sheets, ensures efficient data synchronization and streamlining administrative tasks as changes in the app are automatically reflected in the spreadsheet. This intuitive design allows an effortless experience as Power Apps automatically applies the template for the user(s) to modify. 
 
 
 <ins><b>Features</ins></b>
@@ -36,7 +36,7 @@ This dummy project simplifies a student-list management system by offering a use
 
 <ins><b>Technologies Used</ins></b>
 
-- Microsoft Power Apps & Excel
+- Microsoft Power Apps & Google Sheets
 - Data Integration Tools
 
 ### <b> Project Three: Poverty in the Midwest </b><br />
