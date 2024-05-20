@@ -4,8 +4,8 @@
 Welcome to my Signature Work Portfolio! This portfolio showcases three projects I completed while studying at the University of St. Thomas as a Computer Science major and a Data Science minor. Each project serves as a testament to the knowledge I gained, assimilated, and applied, reflecting my growth and proficiency in systematic problem-solving and creativity within the fields of technology and data.<br />
 
 <ins><b>Table of Contents</b></ins><br />
-[Project 1: Interactive History Sniffing: CAPTCHA Project<br />](https://github.com/Geremyycx/Interactive-History-Sniffing-CAPTCHA.git)
-Project 2: Dummy Student List using Microsoft Power Apps<br />
+[Project 1: Interactive History Sniffing: CAPTCHA Project](https://github.com/Geremyycx/Interactive-History-Sniffing-CAPTCHA.git)<br />
+[Project 2: Dummy Student List using Microsoft Power Apps](https://github.com/Geremyycx/Dummy-Student-List.git)<br />
 Project 3: Poverty in the Midwest<br />
 
 ### <b> [Project One: Interactive History Sniffing: CAPTCHA Project</b><br />](https://github.com/Geremyycx/Interactive-History-Sniffing-CAPTCHA.git)
@@ -23,7 +23,7 @@ This project involves the development of an interactive CAPTCHA program that can
 - HTML & Python
 - Web Framework
 
-### <b> Project Two: Dummy Student List using Microsoft Power Apps </b><br />
+### <b> [Project Two: Dummy Student List using Microsoft Power Apps](https://github.com/Geremyycx/Dummy-Student-List.git) </b><br />
 <ins><b> Description</b></ins><br />
 This dummy project simplifies a student-list management system by offering a user-friendly interface for adding, editing, and removing student information. This low-code application, using Microsoft Power Apps, which collaborates with Google Sheets, ensures efficient data synchronization and streamlining administrative tasks as changes in the app are automatically reflected in the spreadsheet. This intuitive design allows an effortless experience as Power Apps automatically applies the template for the user(s) to modify. 
 
